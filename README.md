@@ -1,0 +1,2 @@
+# AngularUserDetail
+user detail
